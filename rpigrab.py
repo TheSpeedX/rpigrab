@@ -229,8 +229,8 @@ def main():
 		sys.exit(0)
 
 if __name__ == "__main__":
-	print('[i] RPiGrab\n')
-	print('[i] RPiGrab %s\n  ' % version)
+	print('[i] Shodan-RPi\n')
+	print('[i] Shodan-RPi %s\n  ' % version)
 	if args.input != None:
 		print(('\n[i] Reading from %s' % args.input))
 	else:
