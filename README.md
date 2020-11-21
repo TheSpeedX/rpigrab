@@ -49,35 +49,9 @@ Running with `-n`/`--no-exit` resets the successful and total tries counters on 
 
 `--enum` will print out an empty character if there's no L3 cache (`[1] 192.168.178.42      4 CPUs |  L3 | 0 GPU(s)`)
 
-## Example
-[![ASCIInema recording](https://asciinema.org/a/RE6ze9T70wtJxL5IFmo7KFowW.png)](https://asciinema.org/a/RE6ze9T70wtJxL5IFmo7KFowW)
-
-(The sequence above doesn't include the process of getting results from Shodan, which may take a while, but instead reads from a pre-generated list of IPs to make the recording shorter.)
-
 # NOTES
 
- NOTE: It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal
-
-For Any Queries Join Me On WhatsApp!!!
-      Group Link: http://bit.do/thespeedxgit
-<a href="http://bit.do/thespeedxgit">Join My Group</a>
-
-  YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
-
-  To Support Me By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By
-
-          Mail: ggspeedx29@gmail.com
-
- That's All !!!
-
-# CONTACT
-
- For Any Queries Join Me On WhatsApp!!!
-    Group Link: http://bit.do/thespeedxgit
-<a href="http://bit.do/thespeedxgit">Join My Group</a>
-
-           Mail: ggspeedx29@gmail.com
-
-           YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
+NOTE: It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal  
+YouTube <a href="https://www.youtube.com/c/SpeedXTech">Channel</a>: https://www.youtube.com/c/SpeedXTech  
+To Support Me By Either Helping In Project Or Donating Small Amount To Me For That Contact Me By [Telegram](https://t.me/TheSpeedX)  
+That's All !!
