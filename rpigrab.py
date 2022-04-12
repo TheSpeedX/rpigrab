@@ -221,7 +221,10 @@ def main():
 				if not args.command:
 					print(succtext)
 				else:
-					print('\t%s' % r[0].replace('\n', ''))
+					try:
+						print('\t%s' % r[0].replace('\n', ''))
+					except:
+						print(r)
 		if not args.no_exit:
 			print(('\n[+] Completed!\n    Total IPs tried: %s\n    Total successes: %s\n' % (counter, success)))
 	except KeyboardInterrupt:
